@@ -48,7 +48,7 @@
 <h3 align="center">Stars</h3>
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckevinchenzkk&layout=compact&langs_count=8&theme=transparent&include_all_commits=true" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kckevinchenzkk&show_icons=true&rank_icon=github&locale=en&theme=transparent&include_all_commits=true" alt="kckevinchenzkk" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kckevinchenzkk&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="kckevinchenzkk" />
   
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kckevinchenzkk&theme=transparent&include_all_commits=true" alt="kckevinchenzkk" />
 </p>
