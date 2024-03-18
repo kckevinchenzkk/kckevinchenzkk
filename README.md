@@ -73,6 +73,10 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/4-productive-time.svg" height="150" />
   </a>
+
+ <!-- WakaTime stats banner -->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kckevinchenzkk)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 
