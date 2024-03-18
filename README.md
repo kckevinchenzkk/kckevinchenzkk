@@ -75,7 +75,9 @@
   </a>
 
  <!-- WakaTime stats banner -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kckevinchenzkk)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kckevinchenzkk" height="150em" />
+  </a>
 
 </p>
 
