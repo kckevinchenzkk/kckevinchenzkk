@@ -47,7 +47,7 @@
 
 <h3 align="center">Stars</h3>
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckevinchenzkk&layout=compact&langs_count=8&theme=transparent&include_all_commits=true" />
+<!--   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckevinchenzkk&layout=compact&langs_count=8&theme=transparent&include_all_commits=true" /> -->
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kckevinchenzkk&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="kckevinchenzkk" />
   
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kckevinchenzkk&theme=transparent&include_all_commits=true" alt="kckevinchenzkk" />
@@ -61,9 +61,14 @@
 <h3 align="center">Statistics</h3>
 <p align="center">
 <a href="https://github.com/kckevinchenzkk">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kckevinchenzkk&theme=transparent&include_all_commits=true" height="150em" />
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kckevinchenzkk&theme=transparent&include_all_commits=true" height="150em" />
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> -->
     <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/2-most-commit-language.svg" height="150" />
+  </a>
+
+   <!-- WakaTime stats banner -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kckevinchenzkk" height="150em" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/1-repos-per-language.svg" height="150" />
@@ -74,10 +79,7 @@
     <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/4-productive-time.svg" height="150" />
   </a>
 
- <!-- WakaTime stats banner -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kckevinchenzkk" height="150em" />
-  </a>
+
 
 </p>
 
