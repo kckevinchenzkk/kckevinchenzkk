@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kckevinchenzkk&theme=discord&row=1&column=9" alt="kckevinchenzkk"/></a></p>
 
-- 🔭 I’m currently working on [E-Commerce APP](https://github.com/ECE651Group16/AI-Powered-E-Commerce-App)
+- 🔭 I’m currently working on [Website Development](https://github.com/kckevinchenzkk/gigofficial.com)
 - 🌱 I’m currently learning **React js, Django, React Native**
 - 📫 How to reach me **z585chen@uwaterloo.ca**
 </div><h3 align="left">Connect with me:</h3>
