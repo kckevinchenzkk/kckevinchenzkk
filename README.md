@@ -62,22 +62,26 @@
 <p align="center">
 <a href="https://github.com/kckevinchenzkk">
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kckevinchenzkk&theme=transparent&include_all_commits=true" height="150em" />
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> -->
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> 
+  
     <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/2-most-commit-language.svg" height="150" />
-  </a>
+  </a> -->
+
+
+<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/1-repos-per-language.svg" height="150" />
+  </a> -->
 
    <!-- WakaTime stats banner -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kckevinchenzkk" height="150em" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kckevinchenzkk" height="300em" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/1-repos-per-language.svg" height="150" />
+    <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/4-productive-time.svg" height="200" />
   </a>
 
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kckevinchenzkk&theme=transparent&include_all_commits=true" height="150em" />
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/kckevinchenzkk/kckevinchenzkk/master/profile-summary-card-output/transparent/4-productive-time.svg" height="150" />
-  </a>
+
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kckevinchenzkk&theme=transparent&include_all_commits=true" height="200em" />
 
 
 
@@ -88,7 +92,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <p align="center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kckevinchenzkk&theme=react" height="250em"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kckevinchenzkk&theme=react" height="200em"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
