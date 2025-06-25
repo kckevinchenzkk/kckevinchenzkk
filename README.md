@@ -54,6 +54,12 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kckevinchenzkk&show_icons=true&rank_icon=github&locale=en&theme=transparent" alt="kckevinchenzkk" />
   
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kckevinchenzkk&theme=transparent&include_all_commits=true" alt="kckevinchenzkk" />
+
+  <!-- Now insert the streak separately -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kckevinchenzkk&theme=react" alt="GitHub Streak" />
+</p>
+
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
