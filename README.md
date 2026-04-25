@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,spring,postgres,mysql,aws,docker,gcp,kubernetes,azure,django,flask,linux,git,androidstudio,swift,vercel,supabase,openshift,kafka" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nextjs,vuejs,nodejs,spring,postgres,mysql,aws,docker,gcp,kubernetes,azure,django,flask,linux,git,androidstudio,swift,vercel,supabase,openshift,kafka" />
 </p>
 
 
